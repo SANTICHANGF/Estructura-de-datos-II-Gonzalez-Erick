@@ -1,0 +1,28 @@
+=== RAÍZ E HIJOS ===
+Raíz: 50
+Hijo izquierdo: 30
+Hijo derecho: 70
+
+=== ÁRBOL COMPLETO ===
+RAÍZ -> 50
+   IZQ -> 30
+   DER -> 70
+      IZQ -> 60
+      DER -> 90
+         IZQ -> 80
+         DER -> 95
+
+=== PROPIEDADES ===
+Nodos: 7
+Hojas: 4
+Altura: 3
+Grado de 70: 2
+¿30 es hoja?: true
+¿70 es hoja?: false
+
+=== CONTROL DE NULL ===
+Hijo izquierdo de 30: null
+30 no tiene hijo izquierdo; la referencia es null.
+
+=== ÁRBOL VACÍO ===
+El árbol está vacío.

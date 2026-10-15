@@ -1,0 +1,10 @@
+=== ÁRBOL DE EXPRESIÓN ===
+RAÍZ -> +
+   IZQ -> *
+      IZQ -> 7
+      DER -> 2
+   DER -> /
+      IZQ -> 20
+      DER -> 4
+
+Resultado de (7 * 2) + (20 / 4): 19
