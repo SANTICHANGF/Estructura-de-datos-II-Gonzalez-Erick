@@ -9,9 +9,8 @@ con los tres casos clásicos de eliminación.
 |---|---|
 | `NodoArbol.java` | Nodo del árbol (se agregó `setDato`) |
 | `ArbolBST.java` | BST con recorridos, `buscar`, `eliminar`, `copiar` y `dibujar` |
-| `Diagramas.java` | Genera los diagramas antes/después (SVG) a partir del árbol real |
 | `Main.java` | Ejecuta los tres casos, imprime el árbol antes/después y corre las pruebas |
-| `diagramas/` | Diagramas en SVG y PNG de cada caso |
+| `diagramas/` | Diagramas en PNG de cada caso |
 
 ## Cómo ejecutar
 
@@ -21,7 +20,7 @@ java Main
 ```
 
 Al ejecutar se imprime el árbol antes y después de cada eliminación y se regeneran
-los diagramas en `diagramas/` (los PNG se exportaron aparte a partir de los SVG).
+los diagramas en `diagramas/` (los PNG se exportaron).
 
 ## Árbol de prueba
 
