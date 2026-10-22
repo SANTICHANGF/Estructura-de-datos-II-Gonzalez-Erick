@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="441" viewBox="0 0 1500 441" font-family="Arial, Helvetica, sans-serif">
+<rect width="1500" height="441" fill="white"/>
+<text x="750" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f3a68">CASO 3: nodo con dos hijos - eliminar 30</text>
+<text x="390" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#444">ANTES</text>
+<line x1="495" y1="250" x2="565" y2="330" stroke="#3b5998" stroke-width="2"/>
+<line x1="425" y1="90" x2="215" y2="170" stroke="#3b5998" stroke-width="2"/>
+<line x1="425" y1="90" x2="635" y2="170" stroke="#3b5998" stroke-width="2"/>
+<line x1="635" y1="170" x2="495" y2="250" stroke="#3b5998" stroke-width="2"/>
+<line x1="635" y1="170" x2="705" y2="250" stroke="#3b5998" stroke-width="2"/>
+<line x1="215" y1="170" x2="145" y2="250" stroke="#3b5998" stroke-width="2"/>
+<line x1="215" y1="170" x2="355" y2="250" stroke="#3b5998" stroke-width="2"/>
+<line x1="145" y1="250" x2="75" y2="330" stroke="#3b5998" stroke-width="2"/>
+<line x1="355" y1="250" x2="285" y2="330" stroke="#3b5998" stroke-width="2"/>
+<circle cx="495" cy="250" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="495" y="255" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">60</text>
+<circle cx="425" cy="90" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="425" y="95" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">50</text>
+<circle cx="635" cy="170" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="635" y="175" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">70</text>
+<circle cx="565" cy="330" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="565" y="335" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">65</text>
+<circle cx="285" cy="330" r="21" fill="#a8e0b5" stroke="#3b5998" stroke-width="2"/>
+<text x="285" y="335" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">35</text>
+<circle cx="75" cy="330" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="75" y="335" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">10</text>
+<circle cx="215" cy="170" r="21" fill="#f4a3a3" stroke="#3b5998" stroke-width="2"/>
+<text x="215" y="175" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">30</text>
+<circle cx="705" cy="250" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="705" y="255" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">80</text>
+<circle cx="145" cy="250" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="145" y="255" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">20</text>
+<circle cx="355" cy="250" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="355" y="255" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">40</text>
+<text x="1145" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#444">DESPUÉS</text>
+<line x1="1005" y1="170" x2="935" y2="250" stroke="#3b5998" stroke-width="2"/>
+<line x1="1005" y1="170" x2="1075" y2="250" stroke="#3b5998" stroke-width="2"/>
+<line x1="935" y1="250" x2="865" y2="330" stroke="#3b5998" stroke-width="2"/>
+<line x1="1355" y1="170" x2="1215" y2="250" stroke="#3b5998" stroke-width="2"/>
+<line x1="1355" y1="170" x2="1425" y2="250" stroke="#3b5998" stroke-width="2"/>
+<line x1="1215" y1="250" x2="1285" y2="330" stroke="#3b5998" stroke-width="2"/>
+<line x1="1145" y1="90" x2="1005" y2="170" stroke="#3b5998" stroke-width="2"/>
+<line x1="1145" y1="90" x2="1355" y2="170" stroke="#3b5998" stroke-width="2"/>
+<circle cx="1005" cy="170" r="21" fill="#a8e0b5" stroke="#3b5998" stroke-width="2"/>
+<text x="1005" y="175" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">35</text>
+<circle cx="1285" cy="330" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="1285" y="335" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">65</text>
+<circle cx="935" cy="250" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="935" y="255" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">20</text>
+<circle cx="1355" cy="170" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="1355" y="175" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">70</text>
+<circle cx="1075" cy="250" r="21" fill="#ffe08a" stroke="#3b5998" stroke-width="2"/>
+<text x="1075" y="255" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">40</text>
+<circle cx="1215" cy="250" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="1215" y="255" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">60</text>
+<circle cx="865" cy="330" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="865" y="335" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">10</text>
+<circle cx="1145" cy="90" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="1145" y="95" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">50</text>
+<circle cx="1425" cy="250" r="21" fill="#e8eef9" stroke="#3b5998" stroke-width="2"/>
+<text x="1425" y="255" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">80</text>
+<line x1="755" y1="100" x2="800" y2="100" stroke="#555" stroke-width="3"/>
+<polygon points="815,100 799,91 799,109" fill="#555"/>
+<circle cx="48" cy="393" r="8" fill="#f4a3a3" stroke="#3b5998"/>
+<text x="62" y="397" text-anchor="start" font-size="12" font-weight="normal" fill="#333">Nodo eliminado</text>
+<circle cx="218" cy="393" r="8" fill="#a8e0b5" stroke="#3b5998"/>
+<text x="232" y="397" text-anchor="start" font-size="12" font-weight="normal" fill="#333">Nodo que ocupa su lugar</text>
+<circle cx="458" cy="393" r="8" fill="#ffe08a" stroke="#3b5998"/>
+<text x="472" y="397" text-anchor="start" font-size="12" font-weight="normal" fill="#333">Enlace modificado</text>
+<text x="40" y="427" text-anchor="start" font-size="13" font-weight="normal" fill="#333">Eliminar 30 (dos hijos): lo reemplaza su sucesor inorden (35), el menor del subárbol derecho.</text>
+</svg>
