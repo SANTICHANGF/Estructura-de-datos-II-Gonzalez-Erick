@@ -56,11 +56,7 @@ Durante la sesión se evaluaron los 3 escenarios clave para eliminar un nodo en 
 
 Aquí puedes incluir las capturas de pantalla de tu ejecución o diagramas realizados en clase:
 
-* **Consola de Ejecución (Java):**  
-  ![Ejecución de Consola](ruta/a/tu/imagen_consola.png)
-
-* **Diagrama de Árbol / Algoritmo:**  
-  ![Diagrama del Árbol](ruta/a/tu/imagen_diagrama.png)
+<img width="1145" height="308" alt="WhatsApp Image 2026-10-27 at 09 31 17" src="https://github.com/user-attachments/assets/dc090c99-a106-4bfa-b503-1f46fa473923" />
 
 ---
 
