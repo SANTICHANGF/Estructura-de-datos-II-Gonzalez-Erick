@@ -135,26 +135,3 @@ Como D < 0.5, el grafo es **disperso**: solo existe alrededor de un cuarto de la
 | `Grafo.java` | Lista de adyacencia, grados, densidad, conectividad (BFS), ciclos (DFS) y conversión a dirigido. |
 | `Main.java` | Construye la red y muestra tablas, clasificación y ejercicios. |
 
-## 8. Compilar y ejecutar
-
-```bash
-javac -encoding UTF-8 -d out *.java
-java -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -cp out Main
-```
-
-Requiere JDK 17 o superior. Si en Windows las tildes se ven mal en la consola, ejecute antes `chcp 65001`.
-
-## 9. Entrega en GitHub
-
-```bash
-git init
-git add .
-git commit -m "Guía 12: introducción a grafos (localidades de Bogotá)"
-git branch -M main
-git remote add origin https://github.com/<usuario>/12-introduccion-grafos.git
-git push -u origin main
-```
-
-Subir a Moodle: diagrama, tablas (este README), clasificación justificada y el enlace al repositorio.
-
-> Las distancias son aproximadas y referenciales; el objetivo de la guía es el modelado, no la precisión cartográfica.
